@@ -1,0 +1,8 @@
+{
+  "modulesfolder": "modules",
+  "logsfolder": "logs",
+  "defaultthreads": 10,
+  "modules": [
+    "auxiliary/scanner/smb/smb_version"
+  ]
+}
