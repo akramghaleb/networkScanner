@@ -12,6 +12,7 @@ Modify the "config" file. Change the CHANGEME values in the "settings" key, othe
 ``python networkScanner.py [-h] [-t [THREADS]] TARGET_FILE``
 
   -t [THREADS], Number of threads
+  - TARGET_FILE (e.g 192.168.0.0/24)
   
 
 ## Structure:
