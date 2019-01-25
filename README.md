@@ -22,7 +22,7 @@ Modify the "config" file. Change the CHANGEME values in the "settings" key, othe
   * Contains all auxiliary module configuration
 * config
   * Contains global configuration settings
-* msfenum.log
+* networkScanner.log
   * Some logging generated when running networkScanner.py
 * networkScanner.py
   * The main script
