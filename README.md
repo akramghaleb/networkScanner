@@ -9,7 +9,7 @@ The Metasploit framework offers lots of useful auxiliary modules to perform all 
 
 Modify the "config" file. Change the CHANGEME values in the "settings" key, otherwise those modules will not run.
 
-``python msfenum.py [-h] [-t [THREADS]] TARGET_FILE``
+``python networkScanner.py [-h] [-t [THREADS]] TARGET_FILE``
 
   -t [THREADS], Number of threads
   
